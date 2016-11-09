@@ -48,7 +48,7 @@
 				<div class="col-md-offset-4 col-md-4 resultMessage">
 				<input type="hidden" name="id" value="${id}"/>
 					삭제 하시겠습니까?
-					와우!!!
+					와우!!! 오예!!!!
 				</div>
 			</div>
 			<div class="row">
